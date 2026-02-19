@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@webflow/webflow-cli": "^1.12.1"
+  }
+}
