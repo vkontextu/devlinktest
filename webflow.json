@@ -1,9 +1,0 @@
-{
-  "devlink": {
-    "rootDir": "./app",
-    "cssModules": true,
-    "fileExtensions": {
-      "js": "jsx"
-    }
-  }
-}
