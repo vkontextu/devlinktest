@@ -3,7 +3,7 @@
 
   border-radius: var(--main-radius);
 
-  background-color: #1a1b1f;
+  background-color: hsla(228, 54.64%, 48.28%, 1.00);
 
   transition: all 200ms ease;
 
